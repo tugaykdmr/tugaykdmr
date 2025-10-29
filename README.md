@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Tugay 👋
 
-<!--
-**tugaykdmr/tugaykdmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Electronics & Communication Technology student**  
+🔧 Focused on **circuits, embedded systems, and communication technologies**  
+🚀 Currently **building SolidUp**, an AI-powered personal growth app  
+📡 Interested in IoT, sensors, microcontrollers and real hardware projects  
+💻 Learning software & product development to turn ideas into real solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔌 Technologies & Tools
+- **Microcontrollers:** Arduino, ESP32  
+- **Electronics:** Sensors, analog/digital circuits, basic PCB workflow  
+- **Software:** C, Python (beginner), basic JavaScript  
+- **Tools:** Proteus, Multisim, VS Code, Git & GitHub
+
+---
+
+## 📱 SolidUp
+I am developing **SolidUp**, an AI-powered personal growth mobile app designed to help people improve step by step.  
+I combine engineering logic with product thinking to build practical, useful and scalable applications.
+
+---
+
+## 📫 Contact
+📎 **LinkedIn:** https://www.linkedin.com/in/tugay-akdemir/  
+🐦 **X:** https://x.com/tugaynothing
